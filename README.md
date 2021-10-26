@@ -1,2 +1,2 @@
-# portafolio-Jonathan-Garcia:D
+# portafolio_Jonathan-Garcia:D
 Trabajos de escuela de códigos 
